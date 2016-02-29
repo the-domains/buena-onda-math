@@ -1,11 +1,11 @@
-layout_spectrum: 0.93051
+layout_spectrum: 0.3979764
 favicon: null
 name: Buena Onda Math
 purpose: []
 analytics:
-  twitter: null
-  google: null
   facebook: null
+  google: null
+  twitter: null
 opengraph:
   image: null
   type: null
@@ -23,18 +23,18 @@ collections:
     permalink:
       path: '/:title/'
 cta:
+  domain: null
   version: null
   bucket: null
-  domain: null
 color:
   brandStrength: 0.5925358941312879
   lightness: 0.4957841
   saturation: 0.7799326
   rhythmicContrast: 0.7731872
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-typography_spectrum: 0.7040472
+    - '#D7D1CF'
+    - '#A48888'
+    - '#283A38'
+    - '#2F70B3'
+    - '#EABE1E'
+typography_spectrum: 0.6003373
