@@ -1,28 +1,40 @@
-name: Buena Onda Math
-favicon: null
 layout_spectrum: 0.93051
-typography_spectrum: 0.64531
-cta:
-  domain: null
-  bucket: null
-  version: null
+favicon: null
+name: Buena Onda Math
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+cta:
+  version: null
+  bucket: null
+  domain: null
 color:
+  brandStrength: 0.5925358941312879
+  lightness: 0.4957841
+  saturation: 0.7799326
+  rhythmicContrast: 0.7731872
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.5925358941312879
-  lightness: 0.49173576617613435
-  saturation: 0.5426843562163413
-  rhythmicContrast: 0.5074288125615567
-purpose: []
+typography_spectrum: 0.7040472
